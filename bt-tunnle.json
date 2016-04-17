@@ -1,0 +1,10 @@
+{
+  "privateKey": "./ssl/server.key",
+  "certificate": "./ssl/server.crt",
+  "tunnle": {
+    "dstHost": "www.example.com",
+    "username" : "testUser",
+    "srcHost" : "localhost"
+  },
+  "serverPort" : 3200
+}
