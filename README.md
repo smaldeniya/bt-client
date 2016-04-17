@@ -1,4 +1,4 @@
-# BT Tunnel Client
+# BT Client
 
 This is a tunneling client developed using bt tunneling API.
 
